@@ -69,5 +69,6 @@ nav a:hover:before {
 main {
   height: 80vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
+  align-items: center;
 }
