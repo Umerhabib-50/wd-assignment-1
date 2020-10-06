@@ -103,3 +103,36 @@ main {
   font-weight: 500;
   word-spacing: 4px;
 }
+.leftside .btn1 {
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 14px;
+  text-align: center;
+  padding: 12px 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 50px;
+  color: #fff;
+  letter-spacing: 0;
+  background-image: linear-gradient(to right, #4458dc 0%, #854fee 100%);
+  border: double 2px transparent;
+  box-shadow: 0 10px 30px rgba(118, 85, 225, 0.3);
+}
+.leftside .btn2 {
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 14px;
+  text-align: center;
+  padding: 12px 25px;
+  cursor: pointer;
+  text-transform: uppercase;
+  border-radius: 5px;
+  display: inline-block;
+  margin-right: 50px;
+  color: #222;
+  background-color: #fff;
+  border: 2px solid #4458dc;
+  box-shadow: none;
+}
